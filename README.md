@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps
+
+1. Install socket.io server package
+
+```
+npm i socket.io --save
+```
+
+2. Install socket.io-client package
+
+```
+npm i socket.io-client --save
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
