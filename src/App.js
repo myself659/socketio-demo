@@ -31,7 +31,7 @@ function App() {
       <button
         className="App"
         // send socket.io request
-        onclick={() => client.current.emit('requestDate', 'need date')}
+        onClick={() => client.current.emit('requestDate', 'need date')}
       >
         Click to request date from server
       </button>
